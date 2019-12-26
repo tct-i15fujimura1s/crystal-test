@@ -1,0 +1,7 @@
+name: embed-text
+version: 0.1.0
+
+dependencies:
+  baked_file_system:
+    github: schovi/baked_file_system
+    version: 0.9.8
